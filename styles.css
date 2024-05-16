@@ -1,0 +1,10 @@
+body {
+    background-color: #2e0bf5; /* Change background color to light gray */
+}
+
+h1 {
+    color:chartreuse;
+    font-family: Arial, sans-serif;
+     /* Change font to Arial or fallback to sans-serif */
+    text-align: center; /* Align heading to the center */
+}
